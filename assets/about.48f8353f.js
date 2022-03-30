@@ -1,0 +1,1 @@
+import{_ as s}from"./index.dbe366f7.js";import{v as n,y as a,G as e}from"./naive-ui.6c11226a.js";var o={};const t={},c={class:"about"},r=e("h1",null,"This is an about page",-1),_=e("p",null,"Some content here",-1),i=[r,_];function d(f,l){return n(),a("div",c,i)}typeof o=="function"&&o(t);var p=s(t,[["render",d]]);export{p as default};
